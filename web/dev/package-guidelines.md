@@ -1,3 +1,0 @@
-# Package Guidelines
-
-TODO
